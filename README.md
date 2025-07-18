@@ -1,1 +1,1 @@
-I conducted a controlled simulation to validate the concern raised around the misuse of Azure DevOps via personal Microsoft accounts (e.g., Gmail) tied to enterprise aliases. This scenario poses a tangible data exfiltration risk across cloud DevOps environments and extends beyond GitHub. 
+Following a CISO SOC alert a simulation was conducted to validate concerns around misuse of GitHub via personal Microsoft accounts (e.g., Gmail), linked to corporate aliases.
